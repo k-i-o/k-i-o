@@ -1,3 +1,5 @@
+<p align="center"><a href="https://www.youtube.com/@kiocode"><img width="80%" alt="logo" src="https://avatars.githubusercontent.com/u/68398653?v=4" /></a></p>
+<!-- https://kiocode.com -->
 ## About My Profile
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=k-i-o&theme=tokyonight&title_color=e28d21&text_color=fff&include_all_commits=true&rank_icon=github&hide_border=true" alt="kio's GitHub Stats" /></a>
