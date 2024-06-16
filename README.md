@@ -5,13 +5,10 @@
 
 ## Current Projects
 
-[BetterGores](https://gores.pro) - [DDNet](https://store.steampowered.com/app/412220/DDNet/)
-
-[Improve IL2CPP Cheat Base](https://github.com/k-i-o/IL2CPPBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)
-
-[Android Cheat Base](https://github.com/k-i-o/AndroidCheatsBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)
-
-[Unreal Cheat Base](https://github.com/k-i-o/UEBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)
+- [BetterGores](https://gores.pro) - [DDNet](https://store.steampowered.com/app/412220/DDNet/)
+- [Improve IL2CPP Cheat Base](https://github.com/k-i-o/IL2CPPBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)
+- [Android Cheat Base](https://github.com/k-i-o/AndroidCheatsBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)
+- [Unreal Cheat Base](https://github.com/k-i-o/UEBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)
 
 
 ## Top Repositories
