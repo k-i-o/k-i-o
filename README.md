@@ -1,6 +1,6 @@
 ## About My Profile
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=k-i-o&bg_color=30,2b953d,1a2923&title_color=e28d21&text_color=fff&include_all_commits=true&rank_icon=githubues&hide_border=true" alt="kio's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-i-o&bg_color=30,1a2923,2b953d&title_color=e28d21&text_color=fff&hide_progress=true" alt="kio's GitHub Top Languages" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=k-i-o&bg_color=30,2b953d,1a2923&title_color=e28d21&text_color=fff&include_all_commits=true&rank_icon=githubues&hide_border=true" alt="kio's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-i-o&bg_color=30,1a2923,2b953d&title_color=e28d21&text_color=fff&hide_progress=true&hide_border=true" alt="kio's GitHub Top Languages" /></a> |
 | ------------- | ------------- |
 
 ## Current Projects
