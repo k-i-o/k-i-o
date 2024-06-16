@@ -1,4 +1,5 @@
-<p align="center"><a href="https://www.youtube.com/@kiocode"><img width="80%" alt="logo" src="https://github.com/k-i-o/k-i-o/assets/68398653/b35f2dd7-142e-42ac-9656-e172cf1f7a64" /></a></p>
+<p align="center"><a href="https://www.youtube.com/@kiocode"><img width="200px" alt="logo" src="https://github.com/k-i-o/k-i-o/assets/68398653/de927a90-8ff3-4010-bfb3-7ea938b41ac2" /></a></p>
+
 
 <!-- https://kiocode.com -->
 ## About My Profile
