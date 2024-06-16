@@ -14,14 +14,14 @@
 ## Top Repositories
 
 <a href="https://github.com/k-i-o/IL2CPPBaseByKio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k-i-o&repo=IL2CPPBaseByKio&theme=tokyonight&title_color=e28d21&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k-i-o&repo=IL2CPPBaseByKio&theme=tokyonight&title_color=e28d21&text_color=fff&hide_border=true" />
 </a>
 <a href="https://github.com/k-i-o/AndroidCheatsBaseByKio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k-i-o&repo=AndroidCheatsBaseByKio&theme=tokyonight&title_color=e28d21&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k-i-o&repo=AndroidCheatsBaseByKio&theme=tokyonight&title_color=e28d21&text_color=fff&hide_border=true" />
 </a>
 <a href="https://github.com/k-i-o/UEBaseByKio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k-i-o&repo=UEBaseByKio&theme=tokyonight&title_color=e28d21&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k-i-o&repo=UEBaseByKio&theme=tokyonight&title_color=e28d21&text_color=fff&hide_border=true" />
 </a>
 <a href="https://github.com/k-i-o/CChat.TW">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k-i-o&repo=CChat.TW&theme=tokyonight&title_color=e28d21&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k-i-o&repo=CChat.TW&theme=tokyonight&title_color=e28d21&text_color=fff&hide_border=true" />
 </a>
