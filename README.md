@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi, im Samuele Radici (aka kio) <img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px">
+    Hi, I'm Samuele Radici (aka kio) <img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px">
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wuoyrd&color=57a6e6&label=Views&logo=github&style=flat">
