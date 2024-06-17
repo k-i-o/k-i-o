@@ -47,3 +47,10 @@
 		</a>
 	</p>
 </details>
+<details>
+	<summary><b>Socials</b></summary>
+	<ul>
+		<li><a href="https://www.patreon.com/kiocode">Patreon</a> 
+		<li><a href="https://boosty.to/kiocode">Boosty</a>
+	</ul>
+</details>
