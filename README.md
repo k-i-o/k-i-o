@@ -2,9 +2,9 @@
     Hi, I'm Samuele Radici (aka kio) <img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px">
 </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wuoyrd&color=57a6e6&label=Views&logo=github&style=flat">
-  <img alt="Followers" src="https://img.shields.io/github/followers/wuoyrd?label=follow&color=52cca3&style=flat"/>
-  <img alt="Stars" src="https://img.shields.io/github/stars/wuoyrd?label=watch&color=f57676&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=k-i-o&color=57a6e6&label=Views&logo=github&style=flat">
+  <img alt="Followers" src="https://img.shields.io/github/followers/k-i-o?label=follow&color=52cca3&style=flat"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/k-i-o?label=watch&color=f57676&style=flat"/>
 </p>
 
 <p align="center">
