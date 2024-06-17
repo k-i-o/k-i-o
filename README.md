@@ -1,5 +1,5 @@
 <h1 align="center">
-    You are welcome <img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px">
+    Hi, im Samuele Radici (aka kio) <img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px">
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wuoyrd&color=57a6e6&label=Views&logo=github&style=flat">
@@ -23,10 +23,12 @@
 
 <details>
 	<summary><b>Current Projects</b></summary>
-	- [BetterGores](https://gores.pro) - [DDNet](https://store.steampowered.com/app/412220/DDNet/)
-	- [Improve IL2CPP Cheat Base](https://github.com/k-i-o/IL2CPPBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)
-	- [Android Cheat Base](https://github.com/k-i-o/AndroidCheatsBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)
-	- [Unreal Cheat Base](https://github.com/k-i-o/UEBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)
+	<ul>
+		<li>[BetterGores](https://gores.pro) - [DDNet](https://store.steampowered.com/app/412220/DDNet/)</li>
+		<li>[Improve IL2CPP Cheat Base](https://github.com/k-i-o/IL2CPPBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)</li>
+		<li>[Android Cheat Base](https://github.com/k-i-o/AndroidCheatsBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)</li>
+		<li>[Unreal Cheat Base](https://github.com/k-i-o/UEBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)</li>
+	</ul>
 </details>
 <details>
 	<summary><b>Top Repositories</b></summary>
