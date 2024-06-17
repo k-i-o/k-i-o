@@ -1,5 +1,6 @@
-<p align="center"><a href="https://www.youtube.com/@kiocode"><img width="300px" alt="logo" src="https://github.com/k-i-o/k-i-o/assets/68398653/de927a90-8ff3-4010-bfb3-7ea938b41ac2" /></a></p>
-
+<h1 align="center">
+    <img src="https://github.com/k-i-o/k-i-o/assets/68398653/de927a90-8ff3-4010-bfb3-7ea938b41ac2" width="100px"> You are welcome <img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px">
+</h1>
 
 <!-- https://kiocode.com -->
 ## About My Profile
