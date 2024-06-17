@@ -24,10 +24,10 @@
 <details>
 	<summary><b>Current Projects</b></summary>
 	<ul>
-		<li>[BetterGores](https://gores.pro) - [DDNet](https://store.steampowered.com/app/412220/DDNet/)</li>
-		<li>[Improve IL2CPP Cheat Base](https://github.com/k-i-o/IL2CPPBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)</li>
-		<li>[Android Cheat Base](https://github.com/k-i-o/AndroidCheatsBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)</li>
-		<li>[Unreal Cheat Base](https://github.com/k-i-o/UEBaseByKio) - [Patreon](https://www.patreon.com/kiocode)/[Boosty](https://boosty.to/kiocode)</li>
+		<li><a href="https://gores.pro">BetterGores</a> <a href="https://store.steampowered.com/app/412220/DDNet">DDNet</a></li>
+		<li><a href="https://github.com/k-i-o/IL2CPPBaseByKio">Improve IL2CPP Cheat Base</a> <a href="https://www.patreon.com/kiocode">Patreon</a>/<a href="https://boosty.to/kiocode">Boosty</a></li>
+		<li><a href="https://github.com/k-i-o/AndroidCheatsBaseByKio">Android Cheat Base</a> <a href="https://www.patreon.com/kiocode">Patreon</a>/<a href="https://boosty.to/kiocode">Boosty</a></li>
+		<li><a href="https://github.com/k-i-o/UEBaseByKio">Unreal Cheat Base</a> <a href="https://www.patreon.com/kiocode">Patreon</a>/<a href="https://boosty.to/kiocode">Boosty</a></li>
 	</ul>
 </details>
 <details>
