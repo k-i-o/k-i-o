@@ -53,6 +53,7 @@
 ## Socials
 
 <ul>
-	<li><a href="https://www.patreon.com/kiocode">Patreon</a> 
-	<li><a href="https://boosty.to/kiocode">Boosty</a>
+	<li><a href="https://www.patreon.com/kiocode">Patreon</a></li>
+	<li><a href="https://boosty.to/kiocode">Boosty</a></li>
+	<li><a href="https://discord.com/users/418137276799909908"><img align="center" src="https://lanyard.cnrad.dev/api/418137276799909908?hideStatus=true&bg=409260" /></a></li>
 </ul>
