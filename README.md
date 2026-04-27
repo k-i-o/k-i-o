@@ -2,6 +2,7 @@
     Hi, I'm Samuele Radici (aka kio) 
     <p align="center">
 	<a href="https://kiocode.com" target="_blank">kiocode.com</a>
+	<br>	
 	<a href="https://github.com/orgs/kiocode/repositories" target="_blank">kiocode projects</a>
 	<img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px">
     </p>	
