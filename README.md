@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/github/stars/k-i-o?label=Stars&color=f57676&style=for-the-badge"/>
 </p>
 
-<p align="center">
-	<img src="https://github.com/k-i-o/k-i-o/blob/main/340143567-de927a90-8ff3-4010-bfb3-7ea938b41ac2.png" width="400px"> 
-</p>
-
 <!-- https://kiocode.com -->
 ## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718575-df34c1f7-2651-414c-b98d-e5f9a72cd4e8.svg" width="32" height="28"/> GitHub Statistics
 
@@ -61,5 +57,4 @@
 <ul>
 	<li><a href="https://www.patreon.com/kiocode">Patreon</a></li>
 	<li><a href="https://discord.com/users/418137276799909908">Discord</a><br>
-	Preview:<br><a href="https://discord.com/users/418137276799909908"><img align="center" src="https://lanyard.cnrad.dev/api/418137276799909908?hideStatus=true&bg=409260" /></a></li>
 </ul>
